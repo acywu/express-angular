@@ -17,7 +17,7 @@ Runs like a typical express app:
 
 ## Directory Layout
     
-    app.js              --> app config
+    server.js           --> server config
     package.json        --> for npm
     public/             --> all of the files to be used in on the client side
       app/              --> frontend app folder
@@ -29,6 +29,7 @@ Runs like a typical express app:
           /directives
             filterlist.html --> custom angular template for filterlist
             filterlist.js   --> custom directives for book section
+          app.js        --> Main angular js app config, routes included in here
         /styles
           main.css      --> complied sass
           main.scss     --> all of the styles to be used in on the client side
