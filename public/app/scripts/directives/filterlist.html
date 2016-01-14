@@ -1,0 +1,2 @@
+<input ng-model="query" type="text" placeholder="Filter by ISBN" autofocus>
+<p ng-repeat="book in books | filter:query">Title: {{book.title}}, ISBN: {{book.isbn}}</p>
