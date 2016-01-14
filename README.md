@@ -37,3 +37,7 @@ Runs like a typical express app:
           book.html     --> view of the book section
           main.html     --> view of the main section
 
+## Screenshots
+
+![alt tag](https://raw.githubusercontent.com/alexcywu/express-angular/master/s0.png)
+![alt tag](https://raw.githubusercontent.com/alexcywu/express-angular/master/s1.png)
