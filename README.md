@@ -21,7 +21,7 @@ Runs like a typical express app:
     package.json        --> for npm
     public/             --> all of the files to be used in on the client side
       app/              --> frontend app folder
-        /images         --> default stylesheet
+        /images         --> all the images file for frontend
         /scripts
           /controllers
             book.js     --> controller of book section
