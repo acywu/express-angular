@@ -6,7 +6,7 @@ A angular JS project talking to a node.js based webserver
 ### Before you run
 
     1. Use 'npm install' in the / folder
-    2. Install 'bower_components' in the /public folder 
+    2. Use 'bower install' in the /public folder 
     3. (Optional) If you want to have further development for the frondend, use 'npm install' in the /public folder
 
 ### Running the app
